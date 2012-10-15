@@ -1,4 +1,4 @@
-Spree Price Mask
+Spree Price Mask [![Build Status](https://secure.travis-ci.org/jnettome/spree_pricemask.png)](http://travis-ci.org/jnettome/spree_pricemask) [![Dependency Status](https://gemnasium.com/jnettome/spree_pricemask.png?travis)](https://gemnasium.com/jnettome/spree_pricemask)
 ================
 
 This is a really small spree extension that enables "Sale Price".
