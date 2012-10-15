@@ -1,3 +1,3 @@
 Spree::Variant.class_eval do
-  attr_accessible :sale_price
+  attr_accessible :old_price
 end

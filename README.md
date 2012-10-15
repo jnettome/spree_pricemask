@@ -23,8 +23,8 @@ How to Use
 In your desired views use as following:
 
         # Inside products loop, you can access Sale Price like
-        product.display_price # To show the old price
-        product.sale_price # To show your Sale Price (obvious...)
+        product.old_price # To show the old price (obvious...)
+        product.display_price # To show your Sale Price (end price)
 
 Testing
 -------
